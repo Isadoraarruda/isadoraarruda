@@ -1,6 +1,6 @@
 ### Ola, eu sou a Isadora arruda 🦖
 
-✨ No momento estou aprendendo HTML,CSS e Javascript
+✨ No momento estou estudando HTML,CSS e Javascript
 
 
 <div align="center">
